@@ -40,11 +40,11 @@ Full-stack web application framework that uses Python and MariaDB on the server 
 ### Installation
 
 * [Install via Docker](https://github.com/Ektai-Solution-Pty-Ltd/ekt-frappe_docker)
-* [Install via Frappe Bench](https://github.com/frappe/bench)
+* [Install via Frappe Bench](https://github.com/Ektai-Solution-Pty-Ltd/ekt-bench)
 
 ## Contributing
 
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
+1. [Contribution Guidelines](https://github.com/Ektai-Solution-Pty-Ltd/ekt-erpnext/wiki/Contribution-Guidelines)
 1. [Translations](https://translate.erpnext.com)
 
 ### Website
