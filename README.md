@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/frappe/frappe/actions/workflows/ci-tests.yml">
-        <img src="https://github.com/frappe/frappe/actions/workflows/ci-tests.yml/badge.svg?branch=develop">
+    <a href="https://github.com/Ektai-Solution-Pty-Ltd/ekt-frappe/actions/workflows/ci-tests.yml">
+        <img src="https://github.com/Ektai-Solution-Pty-Ltd/ekt-frappe/actions/workflows/ci-tests.yml/badge.svg?branch=develop">
     </a>
     <a href='https://frappeframework.com/docs'>
         <img src='https://img.shields.io/badge/docs-📖-7575FF.svg?style=flat-square'/>
@@ -39,7 +39,7 @@ Full-stack web application framework that uses Python and MariaDB on the server 
 
 ### Installation
 
-* [Install via Docker](https://github.com/frappe/frappe_docker)
+* [Install via Docker](https://github.com/Ektai-Solution-Pty-Ltd/ekt-frappe_docker)
 * [Install via Frappe Bench](https://github.com/frappe/bench)
 
 ## Contributing
